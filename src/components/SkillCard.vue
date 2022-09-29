@@ -32,11 +32,11 @@ export default{
           </div>
         </div>
 
-        <div class="collapse border-0" :id="title">
+        <!-- <div class="collapse border-0" :id="title">
           <div class="card card-body bg-transparent text-white border-0">
             {{desc}}
           </div>
-        </div>
+        </div> -->
       </div> 
     </div>
 </template>

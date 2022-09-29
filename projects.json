@@ -1,0 +1,52 @@
+[
+    {
+        "title":"TODO List (Vue JS)",
+        "desc":"Some quick example text to build on the card t.",
+        "img":"",
+        "links":["https://github.com/AyaMohy/ToDoList-vueJS"]
+    },
+    {
+        "title":"E-commerce app (Vue JS)",
+        "desc":"Some quick example text to build on the card t.",
+        "img":"",
+        "links":["https://github.com/AyaMohy/E-commerce-app-vuejs"]
+    },
+    {
+        "title":"Socks app (Vue JS)",
+        "desc":"Some quick example text to build on the card t.",
+        "img":"",
+        "links":""
+    },
+    {
+        "title":"Travel app (Vue JS)",
+        "desc":"Some quick example text to build on the card t.",
+        "img":"",
+        "links":["https://github.com/AyaMohy/travel-app-vue.js", "https://github.com/AyaMohy/travel-agency-app"]
+    },
+    {
+        "title":"Exam Demo(JavaScript)",
+        "desc":"Some quick example text to build on the card t.",
+        "img":"",
+        "links":["https://github.com/AyaMohy/Exam_demo"]
+    },
+    {
+        "title":"Coupon Website (JavaScript)",
+        "desc":"Some quick example text to build on the card t.",
+        "img":"",
+        "links":["https://github.com/AyaMohy/coupons-website"]
+    },
+    {
+        "title":"Tokens app (React JS)",
+        "desc":"Some quick example text to build on the card t.",
+        "img":"",
+        "links":["https://tool.develocity.finance/"]
+    },
+    {
+        "title":"Develocity Website (React JS)",
+        "desc":"Some quick example text to build on the card t.",
+        "img":"",
+        "links":""
+    }
+
+
+]
